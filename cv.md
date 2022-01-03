@@ -11,4 +11,14 @@
  I’m interested in Web Development because this occupation provides endless possibilities for professional growth.
  I want to learn and acquire new skills, and my desire will help me with this, and I will become an experienced Frontend developer.
  I want to learn Frontend development with RSSchool courses!
+## Skills
+****
+* HTML (basic)
+* CSS/SASS (basic)
+* JavaScript (basic)
+* Git (basic)
+* Figma
+
+
+
 
