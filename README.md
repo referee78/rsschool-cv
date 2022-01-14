@@ -1,2 +1,2 @@
 
-https://referee78.github.io/rsschool-cv/cv
+https://referee78.github.io/rsschool-cv/cv.md
