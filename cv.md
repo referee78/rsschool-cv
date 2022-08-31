@@ -5,7 +5,7 @@
 * Location: Tomsk, Russia
 * Phone: 8-913-826-66-51
 * Email: referee1978kbb5@gmail.com
-* GitHub: https://github.com/referee78
+* GitHub:[referee78] https://github.com/referee78
 ## About Me
 ****
  I’m interested in Web Development because this occupation provides endless possibilities for professional growth.
@@ -37,8 +37,8 @@ function testFactorial(a) {
 * University: Tomsk State University, Specialty "Engineer Hydrologist". (Unfinished higher education).
 * Courses:
     + [Stepik](https://stepik.org)
-    + https://htmlacademy.ru
-    + https://www.udemy.com/course/webdeveloper
+    + [HTML Academy](https://htmlacademy.ru)
+    + [Udemy](https://www.udemy.com/course/webdeveloper)
     
 ## English
 ****
