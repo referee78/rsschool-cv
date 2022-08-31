@@ -5,7 +5,7 @@
 * Location: Tomsk, Russia
 * Phone: 8-913-826-66-51
 * Email: referee1978kbb5@gmail.com
-* GitHub:[referee78] https://github.com/referee78
+* GitHub: [referee78](https://github.com/referee78)
 ## About Me
 ****
  I’m interested in Web Development because this occupation provides endless possibilities for professional growth.
