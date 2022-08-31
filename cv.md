@@ -36,7 +36,7 @@ function testFactorial(a) {
 ****
 * University: Tomsk State University, Specialty "Engineer Hydrologist". (Unfinished higher education).
 * Courses:
-    + https://stepik.org
+    + [Stepik](https://stepik.org)
     + https://htmlacademy.ru
     + https://www.udemy.com/course/webdeveloper
     
